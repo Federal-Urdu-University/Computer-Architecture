@@ -1,0 +1,17 @@
+How to Run Simple Program Using Dosbox
+
+mount c c:\directory_name\  then press enter
+
+c:\    then press enter
+
+edit project_name.asm      then press enter
+
+write code and save it as project_name.asm  then exit it.
+
+directory_name  project_name.asm; then press enter
+
+link project_name.obj;     then press enter
+
+project_name.exe
+
+exit
